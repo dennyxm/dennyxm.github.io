@@ -1,12 +1,15 @@
-# Hello there 🙋‍♂️
+🙋‍♂️ # Hello there 
 ---
 This github page of mine is the showcase of what i've built for learning / side project purpose.
 ---
-## Java ☕️
+☕️ ## Java 
 * TBA
 
-## PHP 🍸
+🫖 ## Javascript 
 * TBA
 
-## Javascript 🥃
+🍸 ## PHP 
+* TBA
+
+🐍 ## Python 
 * TBA
