@@ -4,7 +4,7 @@ This github page of mine is the showcase of what i've built for learning / side 
 
 ---
 ## Java ☕️ 
-TBA
+* [Simple Authentication Demo](https://github.com/dennyxm/authenticator-javaee8-jwt) 
 
 ---
 ## Javascript 🥃 
@@ -19,7 +19,7 @@ TBA
 
 ---
 ## PHP 🍸 
-TBA
+* [Bandarmology Tool](https://github.com/dennyxm/bdmtool)
 
 ---
 ## Python 🐍 
