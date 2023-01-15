@@ -4,7 +4,7 @@ This github page of mine is the showcase of what i've built for learning / side 
 
 ---
 ## Java ☕️ 
-* [Simple Authentication Demo](https://github.com/dennyxm/authenticator-javaee8-jwt) 
+* [Simple Authentication Demo](https://github.com/dennyxm/authenticator-javaee8-jwt) - Java EE, REST API, JWT
 
 ---
 ## Javascript 🥃 
@@ -19,7 +19,7 @@ TBA
 
 ---
 ## PHP 🍸 
-* [Bandarmology Tool](https://github.com/dennyxm/bdmtool)
+* [Bandarmology Tool](https://github.com/dennyxm/bdmtool) - PHP , CodeIgniter 3
 
 ---
 ## Python 🐍 
