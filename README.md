@@ -23,4 +23,4 @@ TBA
 
 ---
 ## Python 🐍 
-TBA
+* [Containerized Django] Django in Container (https://github.com/dennyxm/django_4_microservices) - Python, Django, Docker
